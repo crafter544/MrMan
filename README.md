@@ -1,5 +1,5 @@
 # MrMan
-This is my first hacking tool i  have made have not tested it all of the Options they should all work.
+This is my first hacking tool i have made have not tested it all of the options yet but they should all work.
 
 
 NOTE: THIS SOURCE CODE IS For Educational Purposes Only.
