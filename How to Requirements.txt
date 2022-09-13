@@ -1,0 +1,5 @@
+You have to install the requirements.txt folder with the command
+
+pip install -r requirements.txt
+
+then the python script shsould be able to run
