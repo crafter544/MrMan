@@ -4,11 +4,11 @@ This is my first hacking tool I have made, have not tested it all of the options
 ![](https://github.com/crafter544/Images/blob/main/MrMan%20Pic1.png?raw=true)
 
 What you can do on MrMan
-
+-
 ![](https://github.com/crafter544/Images/blob/main/MrMan%20Pic2.png?raw=true)
-
-
-Options:
+ 
+ Options
+ -
 
  -Option 1 (has not been tested):It's Ransomware what this does if you dont know is that is it encrypts all the files with MrMan it encrypts all the files on the drive   it is running on so if you are going to use this make sure THAT YOU ARE RUNNING IT ON THE DRIVE YOU WANT TO ENCRYPT.Then it will make a key that you can take off the   machine then you will have to use Option2.
 
@@ -27,6 +27,6 @@ Options:
 ![](https://github.com/crafter544/Images/blob/main/MrMan%20Pic3.png?raw=true)
 ^^Help Menu: Tells you what MrMan can do.^^
 
-
+----
 NOTE: THIS SOURCE CODE IS For Educational Purposes Only.
 IM NOT RESBONBLE FOR ANY BAD & MALICIOUS USE OF IT.
