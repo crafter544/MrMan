@@ -3,9 +3,9 @@ This is my first hacking tool I have made, have not tested it all of the options
 
 ![](https://github.com/crafter544/Images/blob/main/MrMan%20Pic1.png?raw=true)
 
-video
+Video
 -
-![](https://github.com/crafter544/Images/blob/main/MrMan%20Vid.mp4)
+https://user-images.githubusercontent.com/82976009/208264529-60d184a8-1f8e-4479-84d0-a328b6429d04.mp4
 
 What you can do on MrMan
 -
